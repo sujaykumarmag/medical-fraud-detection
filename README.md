@@ -14,7 +14,7 @@ This project focuses on detecting healthcare fraud using big data analysis techn
 - Utilizes CMS big data for healthcare fraud detection.
 - Applies Deep Anomaly Detection methods for improved accuracy.
 - Utilizes SMOTE for balancing class distribution.
-- Aims for an accuracy score greater than 75% while minimizing False Positives.
+- Aims for an accuracy score greater than 85% while minimizing False Positives.
 
 ## Installation
 
